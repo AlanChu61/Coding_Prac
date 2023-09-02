@@ -247,6 +247,11 @@ def add_note_given_value(self, item, node):
     return False
 
 
-"""Challenge 6
+"""
+Challenge 6
 Given a BinarySearchNode class, write a method that returns the total number of nodes in the tree.
 """
+
+
+def BST_count_node(self):
+    # we can use DFS or BFS to approach
